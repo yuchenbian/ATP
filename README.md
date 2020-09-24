@@ -1,0 +1,2 @@
+# ATP
+Amplified Topology Potential field (ATP) algorithm is to detect query-oriented community core nodes which can be used as new query nodes (friendly for local community detection) to replace original intractable query nodes (in community boundary region, overlapping region, and multiple query nodes). Please refer to the ICDM 2020 paper (Rethinking Local Community Detection: Query Nodes Replacement) for details.
